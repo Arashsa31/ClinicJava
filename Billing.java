@@ -1,5 +1,3 @@
-package Question3;
-
 /**
  * @author Arash
  *
